@@ -178,7 +178,7 @@ a.active, a:hover {
     position: relative; 
     width: 100%;
     height: 80vh; 
-    background: url('gaming\ pic.png') no-repeat center center/cover; 
+    background: url('gaming\ pic.jpg') no-repeat center center/cover; 
     display: flex; 
     justify-content: center; 
     align-items: center;
@@ -188,7 +188,7 @@ a.active, a:hover {
     position: relative; 
     width: 100%;
     height: 80vh; 
-    background: url('gaming\ pic\ 2.png') no-repeat center center/cover; 
+    background: url('gaming\ pic\ 2.jpg') no-repeat center center/cover; 
     display: flex; 
     justify-content: center; 
     align-items: center;
